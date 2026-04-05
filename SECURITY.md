@@ -7,3 +7,6 @@ https://github.com/SonicSpeed13425/ClassicGUI.ahk
 **Or** from the user https://github.com/SonicSpeed13425
 
 ClassicGUI uses `A_Username` to display your Windows username on the start screen. This is expected behaviour and not a security risk.
+
+## Reporting Issues
+If you find a bug or unexpected behaviour, feel free to open a forum in my discord server about vulnerabilities
