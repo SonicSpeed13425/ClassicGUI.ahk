@@ -35,3 +35,8 @@ This was made for roblox if you couldnt tell but has many features that arent li
 
 ## A preview of the actual GUI
 <img width="500" height="197" alt="image" src="https://github.com/user-attachments/assets/1f420919-b446-4a45-b98f-5ba6b846e6fe" />
+
+
+
+
+# Enjoy ClassicGUI!
